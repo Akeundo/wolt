@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wolt/static/css/main.41d68ca0.chunk.css",
+    "main.css": "/wolt/static/css/main.4686dd68.chunk.css",
     "main.js": "/wolt/static/js/main.d4870cce.chunk.js",
     "main.js.map": "/wolt/static/js/main.d4870cce.chunk.js.map",
     "runtime-main.js": "/wolt/static/js/runtime-main.cdc8cc74.js",
@@ -8,15 +8,15 @@
     "static/js/2.8d09a402.chunk.js": "/wolt/static/js/2.8d09a402.chunk.js",
     "static/js/2.8d09a402.chunk.js.map": "/wolt/static/js/2.8d09a402.chunk.js.map",
     "index.html": "/wolt/index.html",
-    "precache-manifest.5a920e8423881c751239409e05fd1f24.js": "/wolt/precache-manifest.5a920e8423881c751239409e05fd1f24.js",
+    "precache-manifest.2652ba404d78ca55c9e4deba5d96fb66.js": "/wolt/precache-manifest.2652ba404d78ca55c9e4deba5d96fb66.js",
     "service-worker.js": "/wolt/service-worker.js",
-    "static/css/main.41d68ca0.chunk.css.map": "/wolt/static/css/main.41d68ca0.chunk.css.map",
+    "static/css/main.4686dd68.chunk.css.map": "/wolt/static/css/main.4686dd68.chunk.css.map",
     "static/js/2.8d09a402.chunk.js.LICENSE.txt": "/wolt/static/js/2.8d09a402.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cdc8cc74.js",
     "static/js/2.8d09a402.chunk.js",
-    "static/css/main.41d68ca0.chunk.css",
+    "static/css/main.4686dd68.chunk.css",
     "static/js/main.d4870cce.chunk.js"
   ]
 }
